@@ -12,7 +12,6 @@
 </div>
 
 # Welcome to My GitHub Profile!
-#Selamat datang di profil github saya!
 
 ## My Skills 
 
@@ -21,6 +20,7 @@
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="display: inline-block; width: 48px; margin: 0 20px;" />
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="display: inline-block; width: 48px; margin: 0 20px;" />
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="display: inline-block; width: 48px; margin: 0 20px;" />
+    <img src="https://images.app.goo.gl/xmTWZ">
 
 <!--
 **hafizhcom/hafizhcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
