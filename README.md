@@ -5,13 +5,6 @@
 </samp>
 </h1>
 
-<div align="center" style="display:flex; justify-content:center; gap: 10px;">
-  <span><strong>Name:</strong> Muhammad Hafizh</span>
-  <span><strong></strong></span>
-  <span><strong></strong></span>
-</div>
-
-# Welcome to My GitHub Profile!
 
 ## My Skills 
 
